@@ -4,4 +4,3 @@ git branch: pokazuje jakie mamy dostepne branche;
 git checkout repo: zmienia bierzące repozytorium do repozytorium o nazwie "repo";
     1. git rm --chaced <name_of_file>: usuwa plik ze stagingu;
     2. git reset HEAD <name_of_file>: update dla poprawnego pokazywania git status;
-git ble lelele 
