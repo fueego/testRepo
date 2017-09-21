@@ -1,0 +1,2 @@
+git diff: pokazuje roznice pomiedzy plikami (workplace and staging(index));
+git diff --chached: pokazuje roznice pomiedzy plikami (stage and repository);
